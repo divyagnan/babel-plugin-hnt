@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-hnt",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Compiles away hnt function calls so you get the benefits without the added bundle size.",
   "repository": {
     "type": "git",
