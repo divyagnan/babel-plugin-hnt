@@ -1,4 +1,5 @@
 {
+  "name": "babel-plugin-hnt",
   "version": "0.0.0",
   "description":
     "Compiles away hnt function calls so you get the benefits without the added bundle size.",
@@ -23,6 +24,11 @@
     "prepublish": "npm run clean && npm run build",
     "release": "np"
   },
-  "keywords": ["hnt", "babel", "plugin", "babel-plugin"],
+  "keywords": [
+    "hnt",
+    "babel",
+    "plugin",
+    "babel-plugin"
+  ],
   "license": "MIT"
 }
